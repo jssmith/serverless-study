@@ -19,7 +19,6 @@ Where `MY-AZURE-APP` represents the name of your Azure Function app.
 Install package dependencies:
 ```
 npm install
-
 ```
 
 Install Mocha and run tests:
