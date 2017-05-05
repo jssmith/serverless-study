@@ -1,0 +1,8 @@
+{
+    "name": "serverless-study",
+    "dependencies": {
+        "azure-storage": "2.1.0",
+        "sprintf-js": "1.0.3",
+        "uuid": "3.0.1"
+    }
+}
